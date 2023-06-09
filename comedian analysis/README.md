@@ -63,8 +63,3 @@
   - ricky
 
 ### Text generation is done in `text_generation.ipynb`
-<style>
-    span {
-        color: white; /* Adjust the font color as needed */
-    }
-</style>
