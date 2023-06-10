@@ -39,14 +39,6 @@
 3. Topic 2: gates
 4. Topic 3: parents,time
 
-[(3, 'episode 1'),
- (2, 'episode 2'),
- (0, 'episode 3'),
- (0, 'episode 4'),
- (2, 'episode 5'),
- (0, 'episode 6'),
- (1, 'episode 7'),
- (2, 'episode 8')]
 - Topic 0:
    - episode 3
    - episode 4
